@@ -4,11 +4,13 @@
 
 This website's source code meets accessibility standards and has HTML and CSS with elements that follow a logical structure.
 
-### Visual Presentation
+## Visual Presentation
 
-![screenshot of Horiseon Website](Jessica_Bootcamp_challenge1_index.html.png)
+![screenshot of Horiseon Website](/challenge1/Assets/images/Jessica_Bootcamp_challenge1_index.html.png)
 
-### Links
+
+## Links
 
 [Challenge Github Repo](https://github.com/jessicashong/challenge1)
+
 [Horiseon Website](https://jessicashong.github.io/challenge1/)
