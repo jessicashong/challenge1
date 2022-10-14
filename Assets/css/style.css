@@ -26,7 +26,7 @@ header {
     color: #d9dcd6;
 }
 
-/* navBar */
+/* Flex pushes navBar links to the right.*/
 .navBar{
     padding-top: 15px;
     margin-right: 20px;
@@ -53,7 +53,7 @@ a {
     width: 100%;
 }
 
-/* Content */
+/* Content- Align content to the left and stack inline*/
 .content {
     width: 75%;
     display: inline-block;
@@ -74,7 +74,7 @@ p {
     font-size: 36px;
 }
 
-/* photos stagger left and right */
+/* photos under content stagger left and right */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -85,6 +85,7 @@ p {
     margin-left: 25px;
 }
 
+/* properties within each content box */
 .search-engine-optimization, 
 .online-reputation-management, 
 .social-media-marketing {
@@ -95,7 +96,7 @@ p {
     background-color: #0072bb;
 }
 
-/* Benefits  */
+/* float pushes Benefits to the right */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -107,6 +108,7 @@ p {
     background-color: #2589bd;
 }
 
+/* benefit box settings */
 .benefit-lead, 
 .benefit-brand,
 .benefit-cost {
