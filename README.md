@@ -6,7 +6,7 @@ This website's source code meets accessibility standards and has HTML and CSS wi
 
 ## Visual Presentation
 
-![screenshot of Horiseon Website](./Jessica_Bootcamp_challenge1_index.html.png)
+![screenshot of Horiseon Website](./assets/images/Jessica_Bootcamp_challenge1_index.html.png)
 
 
 ## Links
